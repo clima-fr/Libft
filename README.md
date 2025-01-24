@@ -36,4 +36,4 @@ To use the library in your C projects:
 
 ## Compliance
 
-The project adheres to the [42 School Norm](https://github.com/pin3dev/42_Cursus/blob/b9cd0fe844ddb441d0b3efb98abcee92aee49535/assets/General/norme.en.pdf) coding guidelines, influencing design and implementation choices.
+The project adheres to the 42 School Norm coding guidelines, influencing design and implementation choices.
