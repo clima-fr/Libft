@@ -1,15 +1,5 @@
 # Libft
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/grade-125%2F125-yellow?style=for-the-badge&logo=42&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/Static_Library-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Makefile-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Compilation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Memory-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arrays-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linked_List-blue?style=for-the-badge"/>
-</p>
-
 ## Overview
 
 **Libft** is a custom C library created as part of a coding project to reimplement standard library functions and add useful additional functions. It serves as a foundational static library for future C projects, enhancing understanding of function implementations.
@@ -26,6 +16,7 @@ Clone the repository and compile the project:
 git clone https://github.com/pin3dev/42_Libft.git
 cd 42_Libft/libft
 make
+```
 
 ## Usage
 
